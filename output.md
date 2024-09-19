@@ -1,3 +1,4 @@
+```log
 load:0x40080404,len:3904
 entry 0x40080640
 I (31) boot: ESP-IDF v5.3.1 2nd stage bootloader
@@ -80,3 +81,4 @@ I (52358) wifi:station: fa:a6:13:cd:af:ec join, AID=1, bgn, 20
 I (52378) wifi softAP: station fa:a6:13:cd:af:ec join, AID=1
 I (53738) esp_netif_lwip: DHCP server assigned IP to a client, IP is: 192.168.4.2
 I (55638) wifi:<ba-add>idx:2 (ifx:1, fa:a6:13:cd:af:ec), tid:0, ssn:2, winSize:64
+```

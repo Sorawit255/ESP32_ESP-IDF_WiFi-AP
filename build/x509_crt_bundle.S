@@ -1,4 +1,4 @@
-/* * Data converted from E:/65030255/ESP32_ESP-IDF_WiFi-AP/build/esp-idf/mbedtls/x509_crt_bundle
+/* * Data converted from E:/.Computer Lau/P3_ESP32/ESP32_ESP-IDF_WiFi-AP/build/esp-idf/mbedtls/x509_crt_bundle
  */
 .data
 #if !defined (__APPLE__) && !defined (__linux__)
